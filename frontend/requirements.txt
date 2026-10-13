@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+a2a-sdk
+httpx
+google-auth
+python-dotenv
+protobuf
